@@ -8,12 +8,13 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+  - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [Author](#author)
+  - [Acknowledgement](#acknowledgement)
 
 
 ## Overview
@@ -31,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
+- Solution URL: [GitHub](https://github.com/Anjie-MF/FEM_fourCardFeature_figmaChallenge)
 - Live Site URL: [GitHub Pages](https://your-live-site-url.com)
 
 ## My process
@@ -85,3 +86,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Frontend Mentor - [Anjie-MF](https://www.frontendmentor.io/profile/Anjie-MF)
 
 
+## Acknowledgments
+
+- Discord - [@DarkStar] - a dev who instructions gave me a lightbulb moment. i needed to ask google how to span two columns not stretch. 
