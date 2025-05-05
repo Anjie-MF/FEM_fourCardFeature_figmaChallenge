@@ -65,9 +65,6 @@ const proudOfThisFunc = () => {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
@@ -75,9 +72,11 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Website Responsive Tool ](https://responsivetesttool.com/) - My go-to for testing respnsiveness across multiple screens. 
+-[CSS Grid Generator](https://cssgridgenerator.io/) - Great for visualizing the grid layout
 
-- [PX to REM Converter](https://nekocalc.com/px-to-rem-converter) - Yes, I could memorize it or...use this amazing converter!
+- [Website Responsive Tool](https://responsivetesttool.com/) - My go-to for testing respnsiveness across multiple screens
+
+- [PX to REM Converter](https://nekocalc.com/px-to-rem-converter) - Yes, I could memorize it or...use this amazing converter
 
 
 ## Author
