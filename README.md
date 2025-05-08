@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Screenshot%202025-05-07%207.17.01%20PM.png)
 
 
 ### Links
