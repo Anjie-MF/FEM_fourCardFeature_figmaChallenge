@@ -32,8 +32,8 @@ Users should be able to:
 
 
 ### Links
-- Solution URL: [GitHub]()
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [GitHub](https://github.com/Anjie-MF/FEM_fourCardFeature_figmaChallenge/tree/main)
+- Live Site URL: [GitHub Pages](https://anjie-mf.github.io/FEM_fourCardFeature_figmaChallenge/)
 
 
 ## My process
