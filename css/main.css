@@ -203,7 +203,6 @@ article img {
 
 .calculator {
     border-top: 5px solid #44d3d2;
-    border-radius: 8px;
     grid-column: 9 / span 4;
     grid-row: 2/4;
 }
@@ -213,6 +212,7 @@ article img {
 .supervisor,
 .calculator {
     box-shadow: 10px 10px 5px 0px rgba(117, 105, 105, 0.3);
+    border-radius: 8px;
 }
 
 footer {
